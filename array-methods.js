@@ -42,5 +42,5 @@ console.log(names.reverse());
 
 const cities = ["Utrecht", "Maastricht", "Eindhoven"];
 
-cities.splice(1, 0, 'Amsterdam')
+cities.splice(1, 0, 'Amsterdam');
 console.log(cities);
